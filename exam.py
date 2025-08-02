@@ -1,3 +1,4 @@
+# 1
 # while True:
 #     num = int(input("введите число: "))
 #     if num < 0:
@@ -6,12 +7,12 @@
 #         print(num ** 2)
 
 
-
+# 2
 # lst = ['c#', 'java', ['rust', 'python', 'js']]
 
 # print([lst[2][1]])
 
-
+# 3
 # result = []
 # for i in range(1,11):
 #     result.append(i ** 2)
@@ -54,6 +55,7 @@
 
 # print(calenadr['март'])
 
+# 8
 
 import time 
 
@@ -76,4 +78,4 @@ while True:
 
         if count >= 3:
             print('доступ заблокирован на 10 секунд')
-            time.sleep(10)        
+            time.sleep(10)
